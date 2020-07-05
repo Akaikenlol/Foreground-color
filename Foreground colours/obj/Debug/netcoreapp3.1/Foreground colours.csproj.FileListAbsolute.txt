@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\Foreground colours\bin\Debug\netcoreapp3.1\Foreground colours.exe
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\Foreground colours\bin\Debug\netcoreapp3.1\Foreground colours.deps.json
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\Foreground colours\bin\Debug\netcoreapp3.1\Foreground colours.runtimeconfig.json
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\Foreground colours\bin\Debug\netcoreapp3.1\Foreground colours.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\Foreground colours\bin\Debug\netcoreapp3.1\Foreground colours.dll
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\Foreground colours\bin\Debug\netcoreapp3.1\Foreground colours.pdb
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\Foreground colours\obj\Debug\netcoreapp3.1\Foreground colours.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\Foreground colours\obj\Debug\netcoreapp3.1\Foreground colours.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\Foreground colours\obj\Debug\netcoreapp3.1\Foreground colours.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\Foreground colours\obj\Debug\netcoreapp3.1\Foreground colours.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\Foreground colours\obj\Debug\netcoreapp3.1\Foreground colours.dll
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\Foreground colours\obj\Debug\netcoreapp3.1\Foreground colours.pdb
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\Foreground colours\obj\Debug\netcoreapp3.1\Foreground colours.genruntimeconfig.cache
